@@ -18,7 +18,7 @@ The data used here comes up from varius sourses. So, use it for making farming d
     - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
 ## DATA SOURCE 📊
-I used my Custom code for weather prediction and soil Composition which available below the link. (https://github.com/rutviknare/weather-api-code)
+I used my Custom code for weather prediction and soil Composition which available below the link. (https://github.com/MohiniShinde2103/weather-api-code)
 
 ## Notebooks 📓
 ##### I have also published the corresponding code on My Github(Below the code is specific for one district for weather).

@@ -22,8 +22,8 @@ I used my Custom code for weather prediction and soil Composition which availabl
 
 ## Notebooks 📓
 ##### I have also published the corresponding code on My Github(Below the code is specific for one district for weather).
-- [Weather Prediction](https://github.com/rutviknare/weather-api-code/blob/main/kolhapur.csv)
-- For Soil Composition dataset Updated Soon...
+- [Weather Prediction](https://github.com/MohiniShinde2103/weather-api-code/blob/main/kolhapur.csv)
+- For Soil Composition dataset will be Updated Soon...
 
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -51,6 +51,6 @@ I used my Custom code for weather prediction and soil Composition which availabl
 
 ## DEPLOYMENT 🚀
 
-#### This Application is available in playstore very soon..
+#### This Application will be available in playstore very soon..
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/rutvikravindranare/)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/mohini-shinde-428b55200/)
